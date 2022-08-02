@@ -1,6 +1,6 @@
 {
   "name": "@cloudscapelabs/cordova-plugin-code-push",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "CodePush Plugin for Apache Cordova",
   "cordova": {
     "id": "cordova-plugin-code-push",
