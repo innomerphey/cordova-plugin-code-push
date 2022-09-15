@@ -96,7 +96,7 @@ class LocalPackage extends Package implements ILocalPackage {
                         window.resolveLocalFileSystemURL(
                             this.localPath,
                             function(localPath) {
-                                zip.unzip(localPath.toURL(), unzipDir.toURL(), newPackageUnzipped);
+                                zip.unzip(localPath.nativeURL, unzipDir.nativeURL, newPackageUnzipped);
                             },
                             function (error) {
                                 error && installError(new Error("An error occurred while installing the package. " + error));
