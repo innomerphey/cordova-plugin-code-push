@@ -1,5 +1,5 @@
 {
-  "name": "@cloudscapelabs/cordova-plugin-code-push",
+  "name": "cordova-plugin-code-push",
   "version": "3.1.0",
   "description": "CodePush Plugin for Apache Cordova",
   "cordova": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloudscapelabs/cordova-plugin-code-push"
+    "url": "https://github.com/NeocityMobile/cordova-plugin-code-push"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
