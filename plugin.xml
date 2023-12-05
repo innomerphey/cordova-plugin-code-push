@@ -6,7 +6,7 @@
         <keywords>cordova,code,push</keywords>
         <repo>git@github.com:innomerphey/cordova-plugin-code-push.git</repo>
 
-        <dependency id="code-push" version=">=4.0.0" />
+        <dependency id="code-push" version="=4.1.3" />
         <dependency id="cordova-plugin-dialogs" version=">=1.1.1" />
         <dependency id="cordova-plugin-device" version=">=1.1.0" />
         <dependency id="cordova-plugin-file" version=">=6.0.1" />
